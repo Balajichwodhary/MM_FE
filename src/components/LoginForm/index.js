@@ -19,7 +19,7 @@ onSuccess=jwtToken=>{
 }
 
 onSubmitForm=async (event )=>{
-    event.preventDefault()
+     
     const {username,password}=this.state
     console.log(`${username}, ${password}`)
     // const userDetails={username,password}
