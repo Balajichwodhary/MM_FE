@@ -1,0 +1,28 @@
+.community-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 815px;
+   
+}
+
+
+.cards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.community-mess{
+    display: flex;
+    flex-direction: column;
+    margin:5px 
+    
+}
+
+.sale-card-button{
+    width: 90%;
+    max-width: 400px;
+    align-self: center;
+}
+

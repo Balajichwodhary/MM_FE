@@ -1,0 +1,46 @@
+.bg-container{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.details{
+    display:flex;
+    flex-direction: row;
+}
+.name-phone{
+    display: flex;
+    flex-direction: column;
+}
+.profile-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.profilepic{
+    border-radius: 32px;
+    margin-right: 16px;
+    width: 120px;
+    height: 120px;
+    align-self: center;
+}
+
+.username{
+    text-align: center;
+    color: dimgray;
+}
+
+.diplay-card{
+    display: flex;
+    flex-direction: column;
+}
+
+.typecard{
+    display: flex;
+   
+    justify-content:space-around;
+    background-color: cadetblue;
+    width: 100%;
+}
